@@ -7,4 +7,5 @@ Jika anda berminat menjadi developer kami, ikuti sayembara dengan melakukan pull
 Berikut adalah daftar volunteer yang telah diterima dalam sayembara yang telah kami buat : 
 
 **\*Testing Reviewer Dicoding, [Dicoding Reviewer](https://www.dicoding.com/)**
+**\*Wellyanto Pria Aditama, [WellyAditama12](https://www.google.com/)**
 
